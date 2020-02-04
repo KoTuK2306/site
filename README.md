@@ -1,2 +1,1 @@
 # site
-git add doc
